@@ -1,0 +1,1 @@
+The project aims to help the user manage the sound by controlling through webcam. For calibaration the person's face is blackened using face data.
